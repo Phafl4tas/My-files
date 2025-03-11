@@ -1,0 +1,18 @@
+Internet Information
+
+Ip = 192.0.78.12
+
+Admin = Nestoras Anastasion (C.S Teacher)
+
+https://epalkonistron.wordpress.com //Domain page 
+https://wordpress.com/log-in/el?redirect_to=https%3A%2F%2Fepalkonistron.wordpress.com%2Fwp-admin%2F  //WordPress login page
+
+
+
+Main Information 
+
+Address = Lianopoulou 5
+City = Konistres 
+Land Line = 2222058712, 2222350452
+Email = 1epal-konistr@sch.gr
+Principal = Kntolios Georgios

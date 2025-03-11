@@ -1,0 +1,195 @@
+# Dirsearch started Mon Mar  3 01:40:54 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://estellshine.gr
+
+301   795B   https://estellshine.gr/%3f/    -> REDIRECTS TO: https://estellshine.gr/%3f/
+301   795B   https://estellshine.gr/%2e%2e;/test    -> REDIRECTS TO: https://estellshine.gr/..;/test
+301   795B   https://estellshine.gr/+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua    -> REDIRECTS TO: https://estellshine.gr/%2bCSCOT%2b/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2BCSCOE%2B/portal_inc.lua
+301   795B   https://estellshine.gr/+CSCOT+/oem    -> REDIRECTS TO: https://estellshine.gr/%2bCSCOT%2b/oem
+301   795B   https://estellshine.gr/+CSCOE+/session_password.html    -> REDIRECTS TO: https://estellshine.gr/%2bCSCOE%2b/session_password.html
+301   795B   https://estellshine.gr/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../    -> REDIRECTS TO: https://estellshine.gr/%2bCSCOT%2b/translation-table?type=mst&textdomain=/%2BCSCOE%2B/portal_inc.lua&default-language&lang=../
+301   795B   https://estellshine.gr/+CSCOT+/translation    -> REDIRECTS TO: https://estellshine.gr/%2bCSCOT%2b/translation
+301   795B   https://estellshine.gr/+CSCOE+/logon.html    -> REDIRECTS TO: https://estellshine.gr/%2bCSCOE%2b/logon.html
+301   795B   https://estellshine.gr/.config/psi+/profiles/default/accounts.xml    -> REDIRECTS TO: https://estellshine.gr/.config/psi%2b/profiles/default/accounts.xml
+403     1KB  https://estellshine.gr/.ftpquota
+403     1KB  https://estellshine.gr/.git/
+403     1KB  https://estellshine.gr/.git
+403     1KB  https://estellshine.gr/.git/COMMIT_EDITMSG
+403     1KB  https://estellshine.gr/.git/branches/
+403     1KB  https://estellshine.gr/.git/config
+403     1KB  https://estellshine.gr/.git/hooks/applypatch-msg
+403     1KB  https://estellshine.gr/.git/head
+403     1KB  https://estellshine.gr/.git/hooks/
+403     1KB  https://estellshine.gr/.git/hooks/commit-msg
+403     1KB  https://estellshine.gr/.git/description
+403     1KB  https://estellshine.gr/.git/HEAD
+403     1KB  https://estellshine.gr/.git/hooks/post-update
+403     1KB  https://estellshine.gr/.git/hooks/pre-applypatch
+403     1KB  https://estellshine.gr/.git/FETCH_HEAD
+403     1KB  https://estellshine.gr/.git/hooks/pre-commit
+403     1KB  https://estellshine.gr/.git/hooks/pre-push
+403     1KB  https://estellshine.gr/.git/hooks/pre-rebase
+403     1KB  https://estellshine.gr/.git/hooks/pre-receive
+403     1KB  https://estellshine.gr/.git/hooks/update
+403     1KB  https://estellshine.gr/.git/info/attributes
+403     1KB  https://estellshine.gr/.git/hooks/prepare-commit-msg
+403     1KB  https://estellshine.gr/.git/index
+403     1KB  https://estellshine.gr/.git/info/
+403     1KB  https://estellshine.gr/.git/info/exclude
+403     1KB  https://estellshine.gr/.git/info/refs
+403     1KB  https://estellshine.gr/.git/logs/HEAD
+403     1KB  https://estellshine.gr/.git/logs/
+403     1KB  https://estellshine.gr/.git/logs/refs
+403     1KB  https://estellshine.gr/.git/logs/head
+403     1KB  https://estellshine.gr/.git/logs/refs/heads
+403     1KB  https://estellshine.gr/.git/logs/refs/heads/master
+403     1KB  https://estellshine.gr/.git/logs/refs/remotes
+403     1KB  https://estellshine.gr/.git/objects/
+403     1KB  https://estellshine.gr/.git/logs/refs/remotes/origin/master
+403     1KB  https://estellshine.gr/.git/logs/refs/remotes/origin
+403     1KB  https://estellshine.gr/.git/logs/refs/remotes/origin/HEAD
+403     1KB  https://estellshine.gr/.git/refs/heads
+403     1KB  https://estellshine.gr/.git/refs/remotes
+403     1KB  https://estellshine.gr/.git/refs/
+403     1KB  https://estellshine.gr/.git/refs/heads/master
+403     1KB  https://estellshine.gr/.git/objects/info/packs
+403     1KB  https://estellshine.gr/.git/packed-refs
+403     1KB  https://estellshine.gr/.git/refs/remotes/origin/HEAD
+403     1KB  https://estellshine.gr/.git/refs/remotes/origin
+403     1KB  https://estellshine.gr/.git/refs/tags
+403     1KB  https://estellshine.gr/.git/refs/remotes/origin/master
+403     1KB  https://estellshine.gr/.hg/dirstate
+403     1KB  https://estellshine.gr/.hg
+403     1KB  https://estellshine.gr/.hg/store/undo
+403     1KB  https://estellshine.gr/.hg/undo.dirstate
+403     1KB  https://estellshine.gr/.hg/store/data/
+403     1KB  https://estellshine.gr/.hg/requires
+403     1KB  https://estellshine.gr/.hg/hgrc
+403     1KB  https://estellshine.gr/.hg/branch
+403     1KB  https://estellshine.gr/.hgignore
+403     1KB  https://estellshine.gr/.hg/
+403     1KB  https://estellshine.gr/.hg_archival.txt
+403     1KB  https://estellshine.gr/.hgignore.global
+403     1KB  https://estellshine.gr/.hgsigs
+403     1KB  https://estellshine.gr/.hgrc
+403     1KB  https://estellshine.gr/.hgsub
+403     1KB  https://estellshine.gr/.hgsubstate
+403     1KB  https://estellshine.gr/.hgtags
+403     1KB  https://estellshine.gr/.htaccess.bak1
+403     1KB  https://estellshine.gr/.htaccess.orig
+403     1KB  https://estellshine.gr/.htaccess.save
+403     1KB  https://estellshine.gr/.htaccess.sample
+403     1KB  https://estellshine.gr/.htaccess_extra
+403     1KB  https://estellshine.gr/.htaccess_sc
+403     1KB  https://estellshine.gr/.htaccess_orig
+403     1KB  https://estellshine.gr/.htaccessBAK
+403     1KB  https://estellshine.gr/.htaccessOLD
+403     1KB  https://estellshine.gr/.htaccessOLD2
+403     1KB  https://estellshine.gr/.htpasswd_test
+403     1KB  https://estellshine.gr/.htpasswds
+403     1KB  https://estellshine.gr/.svn
+403     1KB  https://estellshine.gr/.svn/all-wcprops
+403     1KB  https://estellshine.gr/.svn/
+403     1KB  https://estellshine.gr/.svn/prop
+403     1KB  https://estellshine.gr/.svn/entries
+403     1KB  https://estellshine.gr/.svn/text
+403     1KB  https://estellshine.gr/.svn/text-base/index.php.svn-base
+403     1KB  https://estellshine.gr/.svn/text-base/
+403     1KB  https://estellshine.gr/.svn/wc.db
+301   795B   https://estellshine.gr/.well-known/acme-challenge    -> REDIRECTS TO: https://estellshine.gr/.well-known/acme-challenge/
+301   795B   https://estellshine.gr/\..\..\..\..\..\..\..\..\..\etc\passwd    -> REDIRECTS TO: https://estellshine.gr/\..\..\..\..\..\..\..\..\..\etc\passwd
+301   795B   https://estellshine.gr/a%5c.aspx    -> REDIRECTS TO: https://estellshine.gr/a\.aspx
+301   795B   https://estellshine.gr/admin    -> REDIRECTS TO: https://estellshine.gr/admin/
+301   795B   https://estellshine.gr/admin/%3bindex/    -> REDIRECTS TO: https://estellshine.gr/admin/;index/
+200     0B   https://estellshine.gr/admin/config.php
+200     1KB  https://estellshine.gr/admin/
+200     1KB  https://estellshine.gr/admin/index.php
+301   795B   https://estellshine.gr/axis//happyaxis.jsp    -> REDIRECTS TO: https://estellshine.gr/axis/happyaxis.jsp
+301   795B   https://estellshine.gr/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: https://estellshine.gr/axis2/axis2-web/HappyAxis.jsp
+301   795B   https://estellshine.gr/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: https://estellshine.gr/axis2-web/HappyAxis.jsp
+301   795B   https://estellshine.gr/catalog    -> REDIRECTS TO: https://estellshine.gr/catalog/
+301   795B   https://estellshine.gr/cgi-bin    -> REDIRECTS TO: https://estellshine.gr/cgi-bin/
+301   795B   https://estellshine.gr/cgi-sys    -> REDIRECTS TO: https://estellshine.gr/cgi-sys/
+403     1KB  https://estellshine.gr/cgi-sys/
+301   795B   https://estellshine.gr/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: https://estellshine.gr/Citrix/AccessPlatform/auth/clientscripts/cookies.js
+200     0B   https://estellshine.gr/config.php
+301     0B   https://estellshine.gr/controlpanel/    -> REDIRECTS TO: https://estellshine.gr:2083/
+301     0B   https://estellshine.gr/controlpanel    -> REDIRECTS TO: https://estellshine.gr:2083
+301     0B   https://estellshine.gr/cpanel/    -> REDIRECTS TO: https://estellshine.gr:2083/
+301     0B   https://estellshine.gr/cpanel    -> REDIRECTS TO: https://estellshine.gr:2083
+301   795B   https://estellshine.gr/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: https://estellshine.gr/engine/classes/swfupload/swfupload_f9.swf
+301   795B   https://estellshine.gr/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: https://estellshine.gr/engine/classes/swfupload/swfupload.swf
+403     1KB  https://estellshine.gr/error_log
+301   795B   https://estellshine.gr/extjs/resources//charts.swf    -> REDIRECTS TO: https://estellshine.gr/extjs/resources/charts.swf
+301   795B   https://estellshine.gr/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: https://estellshine.gr/html/js/misc/swfupload/swfupload.swf
+301   795B   https://estellshine.gr/image    -> REDIRECTS TO: https://estellshine.gr/image/
+301     0B   https://estellshine.gr/kpanel/    -> REDIRECTS TO: https://estellshine.gr:2083/
+301   795B   https://estellshine.gr/login.wdm%2e    -> REDIRECTS TO: https://estellshine.gr/login.wdm.
+403     1KB  https://estellshine.gr/mailman/
+301   795B   https://estellshine.gr/mailman    -> REDIRECTS TO: https://estellshine.gr/mailman/
+200     2KB  https://estellshine.gr/mailman/listinfo
+403     1KB  https://estellshine.gr/php.ini
+301   795B   https://estellshine.gr/pipermail    -> REDIRECTS TO: https://estellshine.gr/pipermail/
+200   101B   https://estellshine.gr/robots.txt
+301   795B   https://estellshine.gr/storage    -> REDIRECTS TO: https://estellshine.gr/storage/
+301   795B   https://estellshine.gr/system    -> REDIRECTS TO: https://estellshine.gr/system/
+301   795B   https://estellshine.gr/typo3conf/ext/static_info_tables/ext_tables_static+adt-orig.sql    -> REDIRECTS TO: https://estellshine.gr/typo3conf/ext/static_info_tables/ext_tables_static%2badt-orig.sql
+301   795B   https://estellshine.gr/typo3conf/ext/static_info_tables/ext_tables_static+adt.sql    -> REDIRECTS TO: https://estellshine.gr/typo3conf/ext/static_info_tables/ext_tables_static%2badt.sql
+301   795B   https://estellshine.gr/upload    -> REDIRECTS TO: https://estellshine.gr/upload/
+301     0B   https://estellshine.gr/webmail/src/configtest.php    -> REDIRECTS TO: https://estellshine.gr:2096/src/configtest.php
+301     0B   https://estellshine.gr/webmail    -> REDIRECTS TO: https://estellshine.gr:2096
+301   795B   https://estellshine.gr/~adm    -> REDIRECTS TO: https://estellshine.gr/~adm/
+301   795B   https://estellshine.gr/~admin    -> REDIRECTS TO: https://estellshine.gr/~admin/
+301   795B   https://estellshine.gr/~administrator    -> REDIRECTS TO: https://estellshine.gr/~administrator/
+301   795B   https://estellshine.gr/~apache    -> REDIRECTS TO: https://estellshine.gr/~apache/
+301   795B   https://estellshine.gr/~anonymous    -> REDIRECTS TO: https://estellshine.gr/~anonymous/
+301   795B   https://estellshine.gr/~backup    -> REDIRECTS TO: https://estellshine.gr/~backup/
+301   795B   https://estellshine.gr/~daemon    -> REDIRECTS TO: https://estellshine.gr/~daemon/
+301   795B   https://estellshine.gr/~bin    -> REDIRECTS TO: https://estellshine.gr/~bin/
+301   795B   https://estellshine.gr/~database    -> REDIRECTS TO: https://estellshine.gr/~database/
+301   795B   https://estellshine.gr/~firewall    -> REDIRECTS TO: https://estellshine.gr/~firewall/
+301   795B   https://estellshine.gr/~data    -> REDIRECTS TO: https://estellshine.gr/~data/
+301   795B   https://estellshine.gr/~ftp    -> REDIRECTS TO: https://estellshine.gr/~ftp/
+301   795B   https://estellshine.gr/~db    -> REDIRECTS TO: https://estellshine.gr/~db/
+301   795B   https://estellshine.gr/~fw    -> REDIRECTS TO: https://estellshine.gr/~fw/
+301   795B   https://estellshine.gr/~fwadmin    -> REDIRECTS TO: https://estellshine.gr/~fwadmin/
+301   795B   https://estellshine.gr/~fwuser    -> REDIRECTS TO: https://estellshine.gr/~fwuser/
+301   795B   https://estellshine.gr/~gdm    -> REDIRECTS TO: https://estellshine.gr/~gdm/
+301   795B   https://estellshine.gr/~games    -> REDIRECTS TO: https://estellshine.gr/~games/
+301   795B   https://estellshine.gr/~gopher    -> REDIRECTS TO: https://estellshine.gr/~gopher/
+301   795B   https://estellshine.gr/~guest    -> REDIRECTS TO: https://estellshine.gr/~guest/
+301   795B   https://estellshine.gr/~halt    -> REDIRECTS TO: https://estellshine.gr/~halt/
+301   795B   https://estellshine.gr/~help    -> REDIRECTS TO: https://estellshine.gr/~help/
+301   795B   https://estellshine.gr/~helpdesk    -> REDIRECTS TO: https://estellshine.gr/~helpdesk/
+301   795B   https://estellshine.gr/~http    -> REDIRECTS TO: https://estellshine.gr/~http/
+301   795B   https://estellshine.gr/~ident    -> REDIRECTS TO: https://estellshine.gr/~ident/
+301   795B   https://estellshine.gr/~lp    -> REDIRECTS TO: https://estellshine.gr/~lp/
+301   795B   https://estellshine.gr/~mail    -> REDIRECTS TO: https://estellshine.gr/~mail/
+301   795B   https://estellshine.gr/~mailnull    -> REDIRECTS TO: https://estellshine.gr/~mailnull/
+301   795B   https://estellshine.gr/~news    -> REDIRECTS TO: https://estellshine.gr/~news/
+301   795B   https://estellshine.gr/~nobody    -> REDIRECTS TO: https://estellshine.gr/~nobody/
+301   795B   https://estellshine.gr/~nscd    -> REDIRECTS TO: https://estellshine.gr/~nscd/
+301   795B   https://estellshine.gr/~office    -> REDIRECTS TO: https://estellshine.gr/~office/
+301   795B   https://estellshine.gr/~pop    -> REDIRECTS TO: https://estellshine.gr/~pop/
+301   795B   https://estellshine.gr/~postmaster    -> REDIRECTS TO: https://estellshine.gr/~postmaster/
+301   795B   https://estellshine.gr/~operator    -> REDIRECTS TO: https://estellshine.gr/~operator/
+301   795B   https://estellshine.gr/~reception    -> REDIRECTS TO: https://estellshine.gr/~reception/
+301   795B   https://estellshine.gr/~root    -> REDIRECTS TO: https://estellshine.gr/~root/
+301   795B   https://estellshine.gr/~shutdown    -> REDIRECTS TO: https://estellshine.gr/~shutdown/
+301   795B   https://estellshine.gr/~rpcuser    -> REDIRECTS TO: https://estellshine.gr/~rpcuser/
+301   795B   https://estellshine.gr/~sql    -> REDIRECTS TO: https://estellshine.gr/~sql/
+301   795B   https://estellshine.gr/~rpc    -> REDIRECTS TO: https://estellshine.gr/~rpc/
+301   795B   https://estellshine.gr/~staff    -> REDIRECTS TO: https://estellshine.gr/~staff/
+301   795B   https://estellshine.gr/~sync    -> REDIRECTS TO: https://estellshine.gr/~sync/
+301   795B   https://estellshine.gr/~system    -> REDIRECTS TO: https://estellshine.gr/~system/
+301   795B   https://estellshine.gr/~test    -> REDIRECTS TO: https://estellshine.gr/~test/
+301   795B   https://estellshine.gr/~testuser    -> REDIRECTS TO: https://estellshine.gr/~testuser/
+301   795B   https://estellshine.gr/~toor    -> REDIRECTS TO: https://estellshine.gr/~toor/
+301   795B   https://estellshine.gr/~user    -> REDIRECTS TO: https://estellshine.gr/~user/
+301   795B   https://estellshine.gr/~user2    -> REDIRECTS TO: https://estellshine.gr/~user2/
+301   795B   https://estellshine.gr/~user1    -> REDIRECTS TO: https://estellshine.gr/~user1/
+301   795B   https://estellshine.gr/~user3    -> REDIRECTS TO: https://estellshine.gr/~user3/
+301   795B   https://estellshine.gr/~user4    -> REDIRECTS TO: https://estellshine.gr/~user4/
+301   795B   https://estellshine.gr/~user5    -> REDIRECTS TO: https://estellshine.gr/~user5/
+301   795B   https://estellshine.gr/~uucp    -> REDIRECTS TO: https://estellshine.gr/~uucp/
+301   795B   https://estellshine.gr/~web    -> REDIRECTS TO: https://estellshine.gr/~web/
+301   795B   https://estellshine.gr/~xfs    -> REDIRECTS TO: https://estellshine.gr/~xfs/
+301   795B   https://estellshine.gr/~www    -> REDIRECTS TO: https://estellshine.gr/~www/

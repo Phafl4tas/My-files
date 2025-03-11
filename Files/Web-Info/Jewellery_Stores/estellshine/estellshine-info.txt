@@ -1,0 +1,18 @@
+Internet inforamtion
+
+Ip = 195.201.104.116
+
+https://estellshine.gr/admin/  //Opencart login page
+
+https://estellshine.gr:2083/  //Command Panel login
+
+Main/Personal Information
+
+Ip = 31.217.162.96
+Cordinates = 
+Address = Vogiatzi 11
+City = Kimi
+Postal Code = 34004
+Phone Number = 6975062269
+Email = info@estellshine.com
+Owner = Stella Giourga

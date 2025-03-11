@@ -1,0 +1,16 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-03-04 18:09 EET
+Nmap scan report for ftp.cc.uoc.gr (147.52.159.50)
+Host is up (0.020s latency).
+Other addresses for ftp.cc.uoc.gr (not scanned): 2001:648:2c00:6c08::2
+Not shown: 992 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+21/tcp    open   ftp
+80/tcp    open   http
+113/tcp   closed ident
+443/tcp   open   https
+873/tcp   open   rsync
+2000/tcp  open   cisco-sccp
+5060/tcp  open   sip
+21571/tcp closed unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 4.36 seconds

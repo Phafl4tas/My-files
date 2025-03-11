@@ -1,0 +1,4 @@
+
+The ftp server with most of the documents of University of Crete / Computer Sience 
+
+http://ftp.cc.uoc.gr/

@@ -1,0 +1,6 @@
+install storm-breaker
+install cupp 
+install drivers
+install havoc
+install anydesk
+install fluxion 

@@ -1,0 +1,11 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-02-28 13:52 EET
+Nmap scan report for www.gov.gr (212.205.77.201)
+Host is up (0.022s latency).
+Other addresses for www.gov.gr (not scanned): 2a02:582:a00::d4cd:7e79 2a02:582:a00::d4cd:7ea3 2a02:582:a00::d4cd:7e7b 2a02:582:a00::d4cd:7e6b 212.205.77.209
+Not shown: 997 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+53/tcp  closed domain
+80/tcp  open   http
+443/tcp open   https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.67 seconds

@@ -1,0 +1,4 @@
+Internet Information
+
+DNS = https://www.iep.edu.gr/el/
+Ip = 84.205.248.102
